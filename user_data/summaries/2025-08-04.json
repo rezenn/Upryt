@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "generated_at": "2025-08-04T12:15:52.288598",
+    "version": "2.1",
+    "generator": "dynamic_nlg"
+  },
+  "summary": " Your Monday, August 04 Analysis: 6% good posture time and required 172 posture corrections . Try posture-correcting exercises to improve your shoulder alignment . Ergonomic adjustments strongly recommended .",
+  "visualization": "user_data/summaries/2025-08-04.png",
+  "raw_data": {
+    "total_duration": 39.51010775566101,
+    "good_percent": 6,
+    "corrections": 172,
+    "max_good_streak": 0.873300313949585,
+    "good_time": 2.5503957271575928,
+    "poor_time": 36.91385746002197,
+    "common_issue": "shoulder alignment"
+  },
+  "components": {
+    "stats_hash": 4631871390631973795,
+    "insight_hash": -567206841300443764,
+    "advice_hash": -7655335703850719834
+  }
+}

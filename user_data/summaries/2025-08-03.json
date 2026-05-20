@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "generated_at": "2025-08-03T21:26:35.709751",
+    "version": "2.1",
+    "generator": "dynamic_nlg"
+  },
+  "summary": " Report: Posture maintenance was challenging today . Report: 58% good posture time and required 13 posture corrections. Report: Needed 0h 0m 10s longest maintained posture .",
+  "visualization": "user_data/summaries/2025-08-03.png",
+  "raw_data": {
+    "total_duration": 76.09390950202942,
+    "good_percent": 58,
+    "corrections": 13,
+    "max_good_streak": 10.889187574386597,
+    "good_time": 44.7820508480072,
+    "poor_time": 31.25061821937561,
+    "common_issue": "shoulder alignment"
+  },
+  "components": {
+    "stats_hash": 8563059801128416492,
+    "insight_hash": 4694928358416299695,
+    "advice_hash": -6120254137751965
+  }
+}
